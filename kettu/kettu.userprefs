@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\freddyControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\freddyControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scrollingBG.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\platformGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\cameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\uiManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menuManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
